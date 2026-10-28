@@ -53,6 +53,23 @@ I am a Mechatronics Engineering student passionate about **Embedded Systems, Har
 
 ---
 
+## 🌐 Connect & Links
+
+| Platform | Link / Handle |
+| :--- | :--- |
+| 📧 **Email** | [axlnurrahim@gmail.com](mailto:axlnurrahim@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/axlnurrahim](https://linkedin.com/in/axlnurrahim) |
+| 🌐 **Team Website** | [eepisat.id](http://eepisat.id/) |
+| 📸 **Instagram** | [@eepisat](https://instagram.com/eepisat) |
+| 🐙 **GitHub** | [@AxlGanteng](https://github.com/AxlGanteng) |
+
+<br/>
+
 <p align="center">
   <i>"Pioneering innovation through mechatronics and aerospace engineering."</i>
+</p>
+
+<p align="center">
+  MIT License © 2026 Axl Nurrahim<br>
+  <sub>Made with ❤️ & Markdown</sub>
 </p>
