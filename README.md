@@ -1,75 +1,81 @@
+<!-- Banner Header Bergaya Typing Effect / Animated Header -->
 <p align="center">
-  <h1 align="center">Hi 👋, I'm Axl Nurrahim</h1>
-  <p align="center">
-    <b>Mechatronics Engineering Student at Politeknik Elektronika Negeri Surabaya (PENS)</b><br>
-    <i>Hardware Division Lead @ Bamantara EEPISAT | Embedded Systems & Robotics Enthusiast</i>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Axl+Nurrahim;Mechatronics+Engineering+Student;Hardware+Division+Lead+%40+EEPISAT;Embedded+Systems+%26+Robotics+Enthusiast" alt="Typing SVG" />
+</p>
+
+<!-- Animated Waving Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,100:1b2a47&height=180&section=header&text=Aerospace%20%26%20Mechatronics&fontSize=35&fontColor=ffffff&desc=Pioneering%20Innovation%20from%20Indonesia&descSize=16&descAlignY=65" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <a href="mailto:axlnurrahim@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/axlnurrahim"><img src="https://img.shields.io/badge/LinkedIn-Axl_Nurrahim-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:axlnurrahim@gmail.com"><img src="https://img.shields.io/badge/Email-axlnurrahim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/axlnurrahim"><img src="https://img.shields.io/badge/LinkedIn-Axl_Nurrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="http://eepisat.id/"><img src="https://img.shields.io/badge/Website-eepisat.id-00599C?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 👋 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-I am a Mechatronics Engineering student passionate about **Embedded Systems, Hardware Design, Control Systems, and Robotics**. Currently, I serve as the **Hardware Division Lead for Bamantara EEPISAT**, developing autonomous aerial & satellite systems for international aerospace competitions.
-
-- 🛠️ **Hardware & PCB Design:** KiCad (Schematics, Layout, DRC, JLCPCB Order), 3D CAD via Autodesk Inventor.
-- ⚡ **Embedded Systems:** Teensy 4.1, ESP32 series (DevKitC, WROOM-32U, ESP32-S3), STM32, Arduino, Z80 Microprocessor Assembly.
-- 📡 **Sensors & Wireless Communication:** IMUs (BNO055, MPU6050, BNO080), BMP280, Power Sensors (ACS712, INA219), VL53L1X ToF, XBee Pro S3B 900HP, LoRa SX1276, u-blox GNSS.
-- 🎛️ **Control & Simulation:** MATLAB/Simulink & Scilab/Xcos (PID Tuning, State-Space Systems, Kinematics).
-- 🖨️ **Prototyping & Manufacturing:** Bambu Lab 3D Printing (AMS Multi-color, Bambu Studio Slicing).
-
----
-
-## 🏆 Key Achievements
-
-- 🥉 **3rd Place Global** | AAS Student CanSat Competition (Virginia, USA, 2026)
-  - *Lead the hardware team in designing an autonomous payload system, custom PCBs, and telemetry communication.*
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Microcontrollers & Processing
-`Teensy 4.1` • `ESP32 / ESP32-S3` • `STM32` • `Arduino` • `Raspberry Pi` • `Z80 Assembly`
-
-### Hardware Design & Prototyping
-`KiCad` • `Autodesk Inventor` • `Bambu Studio / 3D Printing` • `JLCPCB`
-
-### Software & Programming
-`C/C++` • `PlatformIO` • `Python` • `Linux (WSL)` • `MATLAB / Simulink` • `Git / GitHub`
-
----
-
-## 📌 Featured Projects
-
-- 🛰️ **Bamantara EEPISAT CanSat Payload** — Autonomous paraglider payload with custom flight controller, sensor fusion, and dual-band telemetry.
-- 🌿 **Project Lumera (BIPV Smart Greenhouse)** — Integrated smart agricultural system with BIPV solar tiles for strawberry cultivation.
-- 🤖 **Educational Robotics Training (PF Muda)** — Module-based robotics curriculum designed for educator training in Probolinggo.
-
----
-
-## 🌐 Connect & Links
-
-| Platform | Link / Handle |
-| :--- | :--- |
-| 📧 **Email** | [axlnurrahim@gmail.com](mailto:axlnurrahim@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/axlnurrahim](https://linkedin.com/in/axlnurrahim) |
-| 🌐 **Team Website** | [eepisat.id](http://eepisat.id/) |
-| 📸 **Instagram** | [@eepisat](https://instagram.com/eepisat) |
-| 🐙 **GitHub** | [@AxlGanteng](https://github.com/AxlGanteng) |
-
-<br/>
+I am a Mechatronics Engineering student at **Politeknik Elektronika Negeri Surabaya (PENS)** and serve as the **Hardware Division Lead at Bamantara EEPISAT**. My work centers on designing custom flight computers, embedded telemetry hardware, and autonomous payload control systems for high-altitude aerospace competitions.
 
 <p align="center">
-  <i>"Pioneering innovation through mechatronics and aerospace engineering."</i>
+  <img src="https://media.giphy.com/media/qgQUGG4dbv5BLPP4PP/giphy.gif" width="300px" alt="Rocket Animation" />
 </p>
 
+---
+
+### 🛠️ Hardware & Tech Stack
+
 <p align="center">
-  MIT License © 2026 Axl Nurrahim<br>
-  <sub>Made with ❤️ & Markdown</sub>
+  <!-- Microcontrollers -->
+  <img src="https://img.shields.io/badge/Teensy_4.1-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/KiCad_PCB-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bambu_Studio-00AE42?style=for-the-badge&logo=bambulab&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+---
+
+### 🛰️ Featured Projects
+
+- **[Bamantara EEPISAT Payload](https://github.com/Bamantara-EEPISAT)**  
+  *Hardware & Firmware Lead for autonomous paraglider payload, multi-sensor telemetry, and dual-band radio link (XBee/LoRa).*
+- **[Project Lumera](https://github.com/AxlGanteng)**  
+  *Smart greenhouse automation architecture integrated with BIPV solar tile systems.*
+- **[Robotics Educator Module](https://github.com/AxlGanteng)**  
+  *Modular hardware and practical curriculum platform developed for robotics training.*
+
+---
+
+### 🏆 Achievements
+
+- 🥉 **3rd Place Global** — AAS Student CanSat Competition (Virginia, USA, 2026)
+
+---
+
+### 📊 Animated GitHub Activity & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AxlGanteng&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxlGanteng&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="150" />
+</p>
+
+<!-- Snake Game Animation (Animasi Ular Memakan Kontribusi Green Dots GitHub) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AxlGanteng/AxlGanteng/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <sub>MIT License © 2026 Axl Nurrahim</sub>
 </p>
